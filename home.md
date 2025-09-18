@@ -1,6 +1,6 @@
 ---
 photo: ../photos/Photos1.jpg
-title: Student @ UIC CS @ VDS
+title: Student @ UIC CS 
 ---
 # About Me
 
