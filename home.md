@@ -1,12 +1,27 @@
 ---
-photo: ../photos/portrait3.jpg
-title: Assoc. Prof. of Computer Science
+photo: ../photos/Photos1.jpg
+title: Student @ UIC CS @ VDS
 ---
-# open PhD positions
-I am currently looking to recruit up to 4 new PhD students to work on core computer systems research. Positions are fully funded, primarily via research assistantship. Send me an email to learn more about this opportunity. 
+# About Me
 
-# research interests 
-While my interests have varied over the years, I am currently focusing on core computer systems research, including operating systems, concurrency, performance, and operating systems. 
+I am a Computer Science graduate student at the University of Illinois at Chicago. My technical skills include proficiency in various programming languages like Python, Java, SQL, and JavaScript. I also have experience with frameworks such as Django, Flask, and Angular , and I am skilled in using developer tools like Git, Google Colab, and VS Code. My experience includes developing machine learning models for predictive analytics and designing microservice architectures to optimize data pipelines.
+
+
+# Education
+
+
+University of Illinois at Chicago 
+
+Master of Science in Computer Science 
+
+Expected Graduation: May 2026 
+
+
+MIT World Peace University, Pune, India 
+
+Bachelor of Technology in Computer Science and Engineering 
+
+Graduated: June 2024
 
 # teaching 
 I teach and have had a hand in the design of many of the systems classes in the CS department, such as 
@@ -15,7 +30,7 @@ I teach and have had a hand in the design of many of the systems classes in the 
   - CS461: Operating System Design and Implementation
   - CS463: Systems Performance and Concurrent Computing
 
-  as well as *CS294: Unix Terminal Bootcamp*. I see teaching as the most important part of my job, and thus I spend a great deal of time and effort on my classes. In return, I get high marks on [RateMyProfessors](https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1233589) and have received some pretty nice teaching awards such as the [Teaching Recognition Program Award](https://faculty.uic.edu/awards/trp/pastwinners/) (2014), and the [UIC Award for Excellence in Teaching](https://faculty.uic.edu/awards/recognition/aet/aet-recipients/) (2022).  
+  as well as CS294: Unix Terminal Bootcamp. I see teaching as the most important part of my job, and thus I spend a great deal of time and effort on my classes. In return, I get high marks on [RateMyProfessors](https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1233589) and have received some pretty nice teaching awards such as the [Teaching Recognition Program Award](https://faculty.uic.edu/awards/trp/pastwinners/) (2014), and the [UIC Award for Excellence in Teaching](https://faculty.uic.edu/awards/recognition/aet/aet-recipients/) (2022).  
  
 # advisees 
 
@@ -47,15 +62,15 @@ I grew up in Sweden, and I have three children together with my wife [Natasha De
 
 # contact info 
 <a name="contact"></a>
-_I am on sabbatical leave until Aug 2023, and you will not be likely find me on campus._
+I am on sabbatical leave until Aug 2023, and you will not be likely find me on campus.
 
-Other times, my office is in **1309 SEO**, one flight of stairs up from where the SEO elevator stops. My lab is next door, in **1300 SEO**. My office phone number is (312) 996-0481, but 
-I am best reached by email, at **jakob@uic.edu**. 
+Other times, my office is in *1309 SEO, one flight of stairs up from where the SEO elevator stops. My lab is next door, in **1300 SEO*. My office phone number is (312) 996-0481, but 
+I am best reached by email, at *jakob@uic.edu*. 
 
 # resume
-  I have been a professor at **UIC** since 2009. Before that, I spent two years at **MIT CSAIL** as a postdoc with Hari Balakrishnan and Samuel Madden.
-  I received my Ph.D. from **UC Riverside** in 2006, where my advisor was Michalis Faloutsos. 
-  Before that, I spent a few years in various software startups, after receiving my BS/MS degree from the Royal Institute of Technology (**KTH**) in Sweden. 
+  I have been a professor at *UIC* since 2009. Before that, I spent two years at *MIT CSAIL* as a postdoc with Hari Balakrishnan and Samuel Madden.
+  I received my Ph.D. from *UC Riverside* in 2006, where my advisor was Michalis Faloutsos. 
+  Before that, I spent a few years in various software startups, after receiving my BS/MS degree from the Royal Institute of Technology (*KTH*) in Sweden. 
 
 # publications 
 You'll find a complete list of my publications on [Google Scholar](https://scholar.google.com/citations?user=kLUW0psAAAAJ&hl=en).
